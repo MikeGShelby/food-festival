@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description and Purpose
-A food festival app?
+An application featuring information and tickets for a multi-day food festival.
 
 ## Table of Contents
   - [Description and Purpose](#description-and-purpose)
@@ -25,7 +25,8 @@ https://mikegshelby.github.io/food-festival/
 * Express.js
 * HTML
 * CSS
-
+* Bootstrap
+* Webpack
 
 ## License
 MIT License
